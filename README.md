@@ -26,7 +26,7 @@ A responsive React application that displays a curated list of top courses acros
 ---
 
 ## 📁 Folder Structure
-
+```
 src/
  ├── components/ 
  │ ├── Navbar.js 
@@ -37,3 +37,4 @@ src/
  ├── data.js 
  ├── App.js 
  └──index.css
+```
